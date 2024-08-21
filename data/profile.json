@@ -5,7 +5,11 @@
   "location": "Porto Alegre - RS",
   "phone": "(51) 991 999999",
   "email": "rodrigorj83yahoo.com.br",
-  "skills": {
+},
+  {
+  "skills": 
+  },
+   { 
     "hardSkills": [
       {
         "name": "Nodejs",
